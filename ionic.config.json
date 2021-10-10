@@ -1,0 +1,8 @@
+{
+  "name": "devdacticExplorer",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular",
+  "id": "67fcb28b"
+}
